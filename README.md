@@ -1,5 +1,5 @@
 # [Nice](http://www.imswebra.com/projects/nice/)
-![Alt text](/nice.pngraw=true)
+![](Nice.png)
 This respository serves as a download for the source files of the project showcased [here.](http://www.imswebra.com/projects/nice/) Visit this page for more information.
 
 ## Missing Files
