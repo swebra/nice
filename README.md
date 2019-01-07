@@ -1,6 +1,6 @@
 # [Nice](http://www.imswebra.com/projects/nice/)
 ![](Nice.png)
-This respository serves as a download for the source files of the project showcased on [imswebra.com](http://www.imswebra.com/projects/nice/). Visit this page for more information.
+This repository serves as a download for the source files of the project showcased on [imswebra.com](http://www.imswebra.com/projects/nice/). Visit this page for more information.
 
 ## Missing Files
 None
